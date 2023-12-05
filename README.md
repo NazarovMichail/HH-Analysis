@@ -18,5 +18,5 @@ ___
 - Разведывательный анализ
 - Очистка данных
 ## Результат 
-:scroll: [Jupyter notebook](#https://github.com/NazarovMichail/HH-Analysis/blob/master/HW-3%20Анализ%20резюме%20из%20HH.ru.ipynb)
+:scroll: [Jupyter notebook](https://github.com/NazarovMichail/HH-Analysis/blob/master/HW-3%20Анализ%20резюме%20из%20HH.ru.ipynb)
 
