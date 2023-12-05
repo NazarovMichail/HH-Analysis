@@ -5,6 +5,7 @@
 ___
 ## Исходные данные
 Файл с базой резюме из hh.ru:  https://disk.yandex.ru/d/fTKTyjl9FKE_nQ
+
 Файл с курсами валют: https://disk.yandex.ru/d/2-ydY63jhewVcg
 ___
 ## Описание проблемы
